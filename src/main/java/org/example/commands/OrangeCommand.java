@@ -6,7 +6,7 @@ import net.minecraft.src.command.CommandSender;
 import org.pf4j.Extension;
 
 @Extension
-public class OrangeCommand implements bta.util.CommandHandler
+public class OrangeCommand implements com.bta.util.CommandHandler
 {
     @Override
     public Command command()

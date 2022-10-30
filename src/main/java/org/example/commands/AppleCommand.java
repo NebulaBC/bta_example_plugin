@@ -6,7 +6,7 @@ import net.minecraft.src.command.CommandSender;
 import org.pf4j.Extension;
 
 @Extension
-public class AppleCommand implements bta.util.CommandHandler
+public class AppleCommand implements com.bta.util.CommandHandler
 {
     @Override
     public Command command()

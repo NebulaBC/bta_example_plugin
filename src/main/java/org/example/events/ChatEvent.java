@@ -1,6 +1,6 @@
 package org.example.events;
 
-import bta.events.PlayerChatEvent;
+import com.bta.events.PlayerChatEvent;
 import net.minecraft.server.MinecraftServer;
 import net.minecraft.src.EntityPlayerMP;
 import net.minecraft.src.Packet3Chat;
